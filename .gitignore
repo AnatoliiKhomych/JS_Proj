@@ -7,7 +7,9 @@
 
 # testing
 /coverage
-/PAPA
+#Игнорим папку "PAPa/" и все что в ней
+PAPa/
+
 # production
 /build
 
